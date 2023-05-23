@@ -1,0 +1,2 @@
+# spa
+vanilla js SPA
